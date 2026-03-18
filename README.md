@@ -1,19 +1,18 @@
 # Nicholas Sommer
 
-Hello, GitHub! 👋
-
-I'm Nicholas Sommer, a student at Brigham Young University-Idaho interested in computer science, web development, and software engineering. Welcome to my GitHub profile!
+Software Engineering Junior at BYU–Idaho, focused on building clean, well-designed software.
+Feel free to browse any repos
 
 ## About Me
+- Junior specializing in Software Design (GPA: 3.7)
+- Experience with OOP, data structures, algorithms, and modular design
+- Currently working with Android/Kotlin and sharpening my C++ skills
 
-- I'm currently a Junior specializing in software design
-- My goals are to have plenty of projects and learn as much as I can
+## Technologies & Tools
+- **Languages:** C++, C#, Kotlin, JavaScript, Python, HTML/CSS
+- **Tools & IDEs:** Git, GitHub, Android Studio, IntelliJ, VS Code, Visual Studio
+- **Concepts:** OOP, Data Structures, Algorithms, MVVM, Jetpack Compose
 
-## Technologies and Tools
-
-- Proficient in: HTML, CSS, JavaScript, C#, Kotlin, C++ 
-- Skills: 
-
-## Let's Connect!
-
-- Here is my [LinkedIn](https://www.linkedin.com/in/nick-sommer-a21550367/) profile
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/nick-sommer-a21550367/)
+- 📧 nsommer456@gmail.com
